@@ -44,7 +44,7 @@ It parses the **ID3v1** tag format and displays information such as **Title, Art
 ``` bash
 ./a.out -e <Tag> <editing_text> <mp3filename>
 ```
-##Tags: 
+🎯 Tags: 
 - t → Title
 - a → Artist
 - A → Album
