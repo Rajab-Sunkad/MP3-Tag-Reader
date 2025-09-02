@@ -1,7 +1,6 @@
 # 🎵 MP3 Tag Reader
 
-A C project to read ID3 tags (Title, Artist, Album, Year, etc.) from MP3 files.
-The **MP3 Tag Reader** is a command-line utility written in C that extracts metadata from MP3 audio files.  
+A C project to read ID3 tags (Title, Artist, Album, Year, etc.) from MP3 files. The **MP3 Tag Reader** is a command-line utility written in C that extracts metadata from MP3 audio files.  
 It parses the **ID3v1** tag format and displays information such as **Title, Artist, Album, Year, Genre, and Comment**.
 
 ---
